@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "853285569882",
+    "project_id": "instagramkendim",
+    "storage_bucket": "instagramkendim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853285569882:android:629fcf22fa869aff9f1f63",
+        "android_client_info": {
+          "package_name": "com.bugrakahvecioglu.instagramkendyapmm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853285569882-l70piokp64f5im74m96hngeet59jjgh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7x0CcqWQna2VZgPq1Gg9QElZH10-lnic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853285569882-l70piokp64f5im74m96hngeet59jjgh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853285569882:android:3401c937c6b26d569f1f63",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853285569882-l70piokp64f5im74m96hngeet59jjgh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7x0CcqWQna2VZgPq1Gg9QElZH10-lnic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853285569882-l70piokp64f5im74m96hngeet59jjgh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
